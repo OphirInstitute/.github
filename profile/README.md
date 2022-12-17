@@ -1,9 +1,37 @@
-### Hi there welcome to Ophir Institute 👋
-
-![OPHIR]("C:\Users\quivi\Downloads\WhatsApp Image 2022-12-17 at 9.43.48 AM.jpeg")
-
-
+### - Welcome to Ophir Institute 👋
+<p align = "center">
+<img align="center" width="100" height="100" src= "https://user-images.githubusercontent.com/64425915/208235708-a164256f-992e-4857-a516-5dc9dbad8f02.png">
 
 
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Qui-vira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+The Valley to Value
+
+There are Players and there’s the Game, We CREATHE BOTH 💜🥷Your home for all things Blockchain development.
+
+  
+ 
+ 
+### - Mission Statement
+<p align = "left">
+<img align="center" width="480" height="500" src= "https://user-images.githubusercontent.com/64425915/208236830-36717f8b-3c6e-4e95-81dd-02fcd7a58d92.jpeg">
+  
+  
+</p>
+
+### - Vision Statement
+
+<p align = "left">
+<img align="left" width="480" height="500" src= "https://user-images.githubusercontent.com/64425915/208237092-d72ded3b-396a-4a0d-a161-fd4f1b8c3c3a.jpeg">
+  
+ 
+
+  
+</p>
+
+
+  
+  
+
+
+
