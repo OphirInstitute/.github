@@ -8,6 +8,12 @@
 The Valley to Value
 
 There are Players and there’s the Game, We CREATHE BOTH 💜🥷Your home for all things Blockchain development.
+The End goal Of Ophir is to strike a balance between contributors and consumers, and provide service through people of skill to the world at large!
+
+
+  
+  
+
 
   
  
@@ -29,11 +35,6 @@ There are Players and there’s the Game, We CREATHE BOTH 💜🥷Your home for 
   
 </p>
 
-The End goal Of Ophir is to strike a balance between contributors and consumers, and provide service through people of skill to the world at large!
-
-
-  
-  
 
 
 
