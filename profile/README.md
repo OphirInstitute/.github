@@ -22,7 +22,7 @@ There are Players and there’s the Game, We CREATHE BOTH 💜🥷Your home for 
 ### - Vision Statement
 
 <p align = "left">
-<img align="left" width="480" height="500" src= "https://user-images.githubusercontent.com/64425915/208237092-d72ded3b-396a-4a0d-a161-fd4f1b8c3c3a.jpeg">
+<img align="center" width="480" height="500" src= "https://user-images.githubusercontent.com/64425915/208237092-d72ded3b-396a-4a0d-a161-fd4f1b8c3c3a.jpeg">
   
  
 
