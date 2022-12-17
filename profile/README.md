@@ -1,12 +1,8 @@
-### Hi there 👋
+### Hi there welcome to Ophir Institute 👋
 
-- 🔭 I’m From Africa, I am a technical content creator
-- 🌱 I’m currently learning Solidity, HTML, CSS and Javascript
-- 👯 I’m collaborate on all things blockchain
-- 💬 Ask me about Technical Writing, HTML, CSS and Javascript and DEFI
-- 📫 How to reach me: [Twitter- _Quivira](https://twitter.com/_quivira?s=21&t=ltKUvTnbmFl0EVTv-et9hg) ,
-[Whatsapp - 07065092434](https://wa.me/2347065092434?text=Good%20Day%20Quivira,%20i%20got%20your%20contact%20from%20____,%20My%20name%20is__%20)
-- ⚡ Fun fact: I spend hours gyming
+![OPHIR]("C:\Users\quivi\Downloads\WhatsApp Image 2022-12-17 at 9.43.48 AM.jpeg")
+
+
 
 
 
